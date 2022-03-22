@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/user-authentication-react/static/css/main.08943050.css",
+    "main.js": "/user-authentication-react/static/js/main.f138db86.js",
+    "static/js/787.d0503231.chunk.js": "/user-authentication-react/static/js/787.d0503231.chunk.js",
+    "static/media/logo.svg": "/user-authentication-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/user-authentication-react/index.html",
+    "main.08943050.css.map": "/user-authentication-react/static/css/main.08943050.css.map",
+    "main.f138db86.js.map": "/user-authentication-react/static/js/main.f138db86.js.map",
+    "787.d0503231.chunk.js.map": "/user-authentication-react/static/js/787.d0503231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08943050.css",
+    "static/js/main.f138db86.js"
+  ]
+}
